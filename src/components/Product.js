@@ -1,5 +1,5 @@
 import {useState} from "react"
- import Image from "next/Image"
+ import Image from "next/image"
  import {StarIcon} from "@heroicons/react/solid"
  import Currency from "react-currency-formatter"
 
